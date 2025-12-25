@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "空も飛べるはず",
+  "base_artist": "スピッツ",
+  "createdAt": "2025-12-25T01:13:00.902135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "SPITZ",
+      "has_synced": false,
+      "path": "select/01_空も飛べるはず_SPITZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_空も飛べるはず_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空も飛べるはず(Album Version)",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/03_空も飛べるはず(Album_Version)_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_空も飛べるはず_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "ねごと",
+      "has_synced": false,
+      "path": "select/05_空も飛べるはず_ねごと.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "ねごと",
+      "has_synced": true,
+      "path": "select/06_空も飛べるはず_ねごと.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/07_空も飛べるはず_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/08_空も飛べるはず_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "さよならポニーテール",
+      "has_synced": true,
+      "path": "select/09_空も飛べるはず_さよならポニーテール.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "Sayonara Ponytail",
+      "has_synced": true,
+      "path": "select/10_空も飛べるはず_Sayonara_Ponytail.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "川嶋あい",
+      "has_synced": false,
+      "path": "select/11_空も飛べるはず_川嶋あい.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/12_空も飛べるはず_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/13_空も飛べるはず_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "空も飛べるはず（Album Version）",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/14_空も飛べるはず(Album_Version)_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "空も飛べるはず",
+      "artist": "negoto",
+      "has_synced": true,
+      "path": "select/15_空も飛べるはず_negoto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空も飛べるはず",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_空も飛べるはず_スピッツ.txt"
+    }
+  ]
+}
